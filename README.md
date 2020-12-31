@@ -1,4 +1,4 @@
-# Fractal-Terrian-Generator-Python
+# Fractal-Terrain-Generator-Python
 
 ![Example](https://i.imgur.com/IrAuogB.png)
 
