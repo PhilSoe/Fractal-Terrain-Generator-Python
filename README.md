@@ -12,5 +12,4 @@ Prforming the line making operation many times and applying a "Terrain" color fi
 
 # Requierments
 
-Matplotlib
-Numpy
+Matplotlib and Numpy
